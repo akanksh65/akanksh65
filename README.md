@@ -8,6 +8,8 @@
 akanksh65/akanksh65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akanksh65"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akanksh65&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksh65"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksh65&layout=compact"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akanksh65&repo=Polyglot-persistance-Online-Food-Ordering-App"/>
