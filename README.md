@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
     <tbody>
         <tr>
             <td><a href="https://www.linkedin.com/in/akanksh-r-hegde-45ab7733/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            <img height="50" src="[https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg](https://www.dropbox.com/s/ktvwmkis0kie7yq/linkedin-ar21svg.svg?dl=0)" />
             </a></td>
         </tr>
     </tbody>
