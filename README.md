@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akanksh65
-- 👀 I’m interested in soccer, poker and Big data analytics
+- 👀 I’m interested in Soccer, Poker and Big Data Analytics
 - 🌱 I’m currently learning MSc in Business Analytics
 - 💞️ I’m looking to collaborate on dbms and data science projects
 - 📫 How to reach me ... akanksh65@gmail.com
