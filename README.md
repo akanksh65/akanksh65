@@ -13,3 +13,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksh65&layout=compact&theme=dark"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=akanksh65&repo=Polyglot-persistance-Online-Food-Ordering-App&theme=dark"/>
+
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://www.linkedin.com/in/akanksh-r-hegde-45ab7733/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+        </tr>
+    </tbody>
+</table>
