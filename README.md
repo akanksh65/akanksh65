@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akanksh65
-- Currently working as an Analytics engineer
+- Currently working as an Analytics Engineer
 - 👀 I’m interested in Soccer, Poker and Big Data Analytics
 - 🌱 I’m a Post graduate in Business Analytics from Univeristy of Exeter
 - 💞️ I’m looking to collaborate on dbms and data science projects
